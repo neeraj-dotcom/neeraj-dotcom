@@ -1,6 +1,6 @@
 # Hi, I'm Neeraj 👋
 
-Backend-focused .NET Developer with experience building scalable financial and business applications using ASP.NET Core, EF Core, SQL Server, and Azure.
+Backend-focused .NET Developer with experience building scalable business and financial applications using ASP.NET Core, EF Core, SQL Server, and Azure.
 
 ## Tech Stack
 - C#
@@ -8,8 +8,8 @@ Backend-focused .NET Developer with experience building scalable financial and b
 - EF Core
 - SQL Server
 - PostgreSQL
-- Azure
 - React
+- Azure
 - Hangfire
 - Blazor
 - C#
@@ -20,18 +20,16 @@ Backend-focused .NET Developer with experience building scalable financial and b
 - REST APIs
 - Automation tools
 - Background job processing
-- Reporting systems
-- Enterprise backend services
+- Website development
+- School management systems
+- Bug fixing and performance optimization
 
-## Featured Projects
-### Financial Ledger System
-High-performance backend system for payout and ledger processing.
-
-### Expense Management Platform
-TnE and broker expense automation platform with approval workflow.
-
-### API Performance Optimization
-Optimized SQL queries and EF Core processing for large datasets.
+## Experience
+- Developed backend systems for financial and expense processing
+- Built APIs and business workflow automation
+- Worked on school and management systems
+- Fixed production bugs and optimized SQL/EF Core queries
+- Implemented background jobs using Hangfire
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/neerajsajwan/
