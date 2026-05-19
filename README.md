@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Neeraj 👋
 
-<!--
-**neeraj-dotcom/neeraj-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused .NET Developer with experience building scalable financial and business applications using ASP.NET Core, EF Core, SQL Server, and Azure.
 
-Here are some ideas to get you started:
+## Tech Stack
+- C#
+- ASP.NET Core
+- EF Core
+- SQL Server
+- PostgreSQL
+- Azure
+- React
+- Hangfire
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+- Financial systems
+- REST APIs
+- Automation tools
+- Background job processing
+- Reporting systems
+- Enterprise backend services
+
+## Featured Projects
+### Financial Ledger System
+High-performance backend system for payout and ledger processing.
+
+### Expense Management Platform
+TnE and broker expense automation platform with approval workflow.
+
+### API Performance Optimization
+Optimized SQL queries and EF Core processing for large datasets.
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/neerajsajwan/
+- GitHub: https://github.com/neeraj-dotcom
