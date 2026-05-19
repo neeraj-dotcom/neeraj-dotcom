@@ -11,7 +11,9 @@ Backend-focused .NET Developer with experience building scalable financial and b
 - Azure
 - React
 - Hangfire
-- Docker
+- Blazor
+- C#
+- ASP.Net MVC
 
 ## What I Build
 - Financial systems
